@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
+- 🔭 I’m currently working on **Indra**
+
+- 🌱 I’m currently learning **Spring,Android Studio**
+
+- 📫 How to reach me **franjavierros@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/javierrodriig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javierrodriig" height="30" width="40" /></a>
